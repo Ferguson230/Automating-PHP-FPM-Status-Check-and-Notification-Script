@@ -3,7 +3,8 @@ This script checks the status of PHP-FPM on your CentOS 7 Linux server (It may w
 
 **Note:** Make sure to replace your_email@example.com with the email address where you want to receive the notification.
 
-First download the script file php_fpm_status_check.sh by running **wget https://github.com/Ferguson230/Automating-PHP-FPM-Status-Check-and-Notification-Script/blob/main/php_fpm_status_check.sh**
+First download the script file php_fpm_status_check.sh by running the following command:
+**wget https://github.com/Ferguson230/Automating-PHP-FPM-Status-Check-and-Notification-Script/blob/main/php_fpm_status_check.sh**
 
 # Make it executable by running the following command:
 **chmod +x php_fpm_status_check.sh**
